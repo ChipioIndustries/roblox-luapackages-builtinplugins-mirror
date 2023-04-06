@@ -1,0 +1,28 @@
+return {
+	GetFFlagUIBloxDisableTooltipAnimation = require(script.GetFFlagUIBloxDisableTooltipAnimation),
+	GetFFlagUIBloxEnableActionBarLayoutFix = require(script.GetFFlagUIBloxEnableActionBarLayoutFix),
+	GetFFlagUIBloxEnableGenericButtonHoverBackgroundFix = require(
+		script.GetFFlagUIBloxEnableGenericButtonHoverBackgroundFix
+	),
+	GetFFlagUIBloxEnableImageSetResolutionScaleFix = require(script.GetFFlagUIBloxEnableImageSetResolutionScaleFix),
+	GetFFlagUIBloxEnableRadioButtonGamepadSupport = require(script.GetFFlagUIBloxEnableRadioButtonGamepadSupport),
+	GetFFlagUIBloxFixDropdownMenuCellTextSize = require(script.GetFFlagUIBloxFixDropdownMenuCellTextSize),
+	GetFFlagUIBloxGenericButtonInputChangesInGame = require(script.GetFFlagUIBloxGenericButtonInputChangesInGame),
+	GetFFlagUIBloxSliderUpdateOnDismiss = require(script.GetFFlagUIBloxSliderUpdateOnDismiss),
+	GetFFlagUIBloxSystemBarBottomAlignedItems = require(script.GetFFlagUIBloxSystemBarBottomAlignedItems),
+	GetFFlagUIBloxUseNewGenericTextLabelProps = require(script.GetFFlagUIBloxUseNewGenericTextLabelProps),
+	GetFFlagUIBloxVRApplyHeadScale = require(script.GetFFlagUIBloxVRApplyHeadScale),
+	GetUIBloxUseNewThemeColorPalettes = require(script.GetUIBloxUseNewThemeColorPalettes),
+	GetFFlagUIBloxMoveBindActivate = require(script.GetFFlagUIBloxMoveBindActivate),
+	GetFFlagUIBloxRemovePreviewAnchor = require(script.GetFFlagUIBloxRemovePreviewAnchor),
+	GetFFlagUIBloxEnableMediaGalleryUpdate = require(script.GetFFlagUIBloxEnableMediaGalleryUpdate),
+	GetFFlagUIBloxEnableDropdownMenuUpdateSelectedValueFromPlaceholder = require(
+		script.GetFFlagUIBloxEnableDropdownMenuUpdateSelectedValueFromPlaceholder
+	),
+	GetFFlagUIBloxEnableCollectibleItemRestriction = require(script.GetFFlagUIBloxEnableCollectibleItemRestriction),
+	GetFFlagUIBloxUseRightSideGadget = require(script.GetFFlagUIBloxUseRightSideGadget),
+	GetFFlagUIBloxPillGroupAutomaticSize = require(script.GetFFlagUIBloxPillGroupAutomaticSize),
+	GetFFlagUIBloxLoadableImageResponsiveThumbnails = require(script.GetFFlagUIBloxLoadableImageResponsiveThumbnails),
+	GetFFlagUIBloxUseDetailsPageTemplateConfig = require(script.GetFFlagUIBloxUseDetailsPageTemplateConfig),
+	GetFFlagUIBloxDropDownMenuUseUniqueKeys = require(script.GetFFlagUIBloxDropDownMenuUseUniqueKeys),
+}
